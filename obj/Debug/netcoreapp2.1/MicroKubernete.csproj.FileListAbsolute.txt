@@ -1,0 +1,13 @@
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.AssemblyInfoInputs.cache
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.AssemblyInfo.cs
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\bin\Debug\netcoreapp2.1\MicroKubernete.deps.json
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\bin\Debug\netcoreapp2.1\MicroKubernete.runtimeconfig.json
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\bin\Debug\netcoreapp2.1\MicroKubernete.runtimeconfig.dev.json
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\bin\Debug\netcoreapp2.1\MicroKubernete.dll
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.RazorAssemblyInfo.cache
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.RazorAssemblyInfo.cs
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.RazorTargetAssemblyInfo.cache
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\bin\Debug\netcoreapp2.1\MicroKubernete.pdb
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.dll
+C:\Users\yusuf.kurban\Desktop\arge\postgre-micro-docker-\microservice\MicroKubernete\MicroKubernete\obj\Debug\netcoreapp2.1\MicroKubernete.pdb
